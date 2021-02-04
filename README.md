@@ -69,8 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### `orale wey;`
-`Que pedo contigo`
-`Que paso vamos ahí`
+```
+if (isAwesome){
+  return true
+}
+```
 
 pruebitas de codigo en el readme.md
