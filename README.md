@@ -69,9 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### `orale wey
-o que pedo carnal;
-  pues papa
-`
+### `orale wey;`
+`Que pedo contigo`
+`Que paso vamos ahí`
 
 pruebitas de codigo en el readme.md
